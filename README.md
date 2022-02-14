@@ -1,4 +1,4 @@
-### Hi there 👋
+Sejam bem vindos! este é meu espaço onde estou em constante movimento de descoberta, ressignificação e desenvolvimento.
 
 Bacharel em Ciências da Computação, graduando último ano de Engenharia Mecatrônica pela Universidade FIAP, cursando Ciências de Dados e Engenharia de Dados.
 
