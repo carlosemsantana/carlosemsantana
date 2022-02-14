@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Bacharel em Ciências da Computação, graduando último ano de Engenharia Mecatrônica pela Universidade FIAP, cursando Ciências de Dados e Engenharia de Dados.
+
 <!--
 **carlosemsantana/carlosemsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
