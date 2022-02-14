@@ -1,4 +1,6 @@
-Sejam bem vindos! este é o 🖥 espaço dedicado a compartilhar o conhecimento.
+### Sejam bem vindos! 
+
+Espaço dedicado a compartilhar conhecimento.
 
 - 🎓 Bacharel em Ciências da Computação.
 - 🎓 Graduando último ano de Engenharia Mecatrônica pela Universidade FIAP.
