@@ -2,8 +2,8 @@
 
 Espaço dedicado a compartilhar o conhecimento.
 
-- 🎓 Bacharel em Ciências da Computação.
-- 🎓 Graduando último ano de Engenharia Mecatrônica pela Universidade FIAP.
 - 🎓 Cursando Ciências de Dados na Data Science Academy.
+- 🎓 Engenheiro Mecatrônico recém formado pela Universidade FIAP.
+- 🎓 Bacharel em Ciências da Computação.
 
 ⚡ Estou em constante movimento de descoberta, ressignificação e desenvolvimento.
