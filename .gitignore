@@ -1,0 +1,5 @@
+# Git
+.gitignore
+
+# Jupyter notebook
+.ipynb_checkpoints
