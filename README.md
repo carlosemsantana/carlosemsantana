@@ -11,6 +11,4 @@ Espaço dedicado a compartilhar o conhecimento.
 
 ⚡ Estou em constante movimento de descoberta, ressignificação e desenvolvimento.
 
-```python
 
-```
