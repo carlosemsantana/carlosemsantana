@@ -7,7 +7,7 @@ Espaço dedicado a compartilhar o conhecimento.
 - 🎓 Cursando Pós-Graduação: MBA FIAP em Arquitetura de Soluções;
 - 🎓 Cursando Ciências de Dados na Data Science Academy;
 - 🎓 Engenheiro Mecatrônico recém formado pela Universidade FIAP;
-- 🎓 Certificado Lean Six Sigma White Belt;
+- 🎓 Certificado Lean Six Sigma Yellow Belt;
 - 🎓 Bacharel em Ciências da Computação.
 
 ⚡ Estou em constante movimento de descoberta, ressignificação e desenvolvimento.
