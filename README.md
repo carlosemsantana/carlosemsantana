@@ -5,8 +5,7 @@ Espaço dedicado a compartilhar o conhecimento.
 **Formação acadêmica:**
 
 - 🎓 Cursando Pós-Graduação: MBA FIAP em Arquitetura de Soluções;
-- 🎓 Cursando Ciências de Dados na Data Science Academy;
-- 🎓 Engenheiro Mecatrônico recém formado pela Universidade FIAP;
+- 🎓 Engenheiro Mecatrônico pela Universidade FIAP;
 - 🎓 Certificado Lean Six Sigma Yellow Belt;
 - 🎓 Bacharel em Ciências da Computação.
 
