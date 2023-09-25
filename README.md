@@ -5,7 +5,7 @@ Espaço dedicado a compartilhar o conhecimento.
 **Formação acadêmica:**
 
 - 🎓 Cursando Pós-Graduação: MBA FIAP em Arquitetura de Soluções;
-- 🎓 Bacharel em Engenheiraria Mecatrônica;
+- 🎓 Bacharel em Engenharia Mecatrônica;
 - 🎓 Certificado Lean Six Sigma Yellow Belt;
 - 🎓 Bacharel em Ciências da Computação.
 
